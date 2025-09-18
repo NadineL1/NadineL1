@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I am a .NET developer student with a passion for problemsolving and a sharp eye for details.
+I'm exited to learn more and become better each day. 
 <!--
 **NadineL1/NadineL1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
