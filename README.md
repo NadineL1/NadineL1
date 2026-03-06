@@ -3,8 +3,7 @@ I am Nadine Lindell, a .NET developer student with a passion for problemsolving 
 I'm curious and exited to learn more, becoming atleast 1% better each day. 
 Rigth now I'm learning frontend on my own, just started our backend .NET course in school and building my FIRST EVER full stack program - stay tuned!
 
-Also I'm looking for an internship where i can continue my developer journey more in depth, in a period 6 month period starting november this year. Please contact me if my profile is interesting!
-<!--
+
 **NadineL1/NadineL1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
